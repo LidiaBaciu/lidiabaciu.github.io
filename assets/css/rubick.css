@@ -2438,6 +2438,13 @@ a.carousel-control span.fa {
   border-color: white;
 }
 
+.section-we-are-2 .avatar {
+  vertical-align: middle;
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+}
+
 .section-we-are-1 .parallax,
 .section-we-are-1 .full-image,
 .section-we-are-2 .parallax,
